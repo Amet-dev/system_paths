@@ -1,2 +1,4 @@
 Установка программ
 HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall
+Очистка кэша днс
+ipconfig /flushdns
