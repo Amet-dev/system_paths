@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Clip Organizer
+MimeType=application/vnd.ms-mediapackage;
+Exec=env WINEPREFIX="/home/aka/.PlayOnLinux//wineprefix/Office2010" wine start /ProgIDOpen MediaPackageFile %f
+NoDisplay=true
+StartupNotify=true
+Icon=C17F_MSTORE.0

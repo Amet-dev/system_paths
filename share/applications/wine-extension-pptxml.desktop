@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft PowerPoint
+MimeType=application/x-wine-extension-pptxml;
+Exec=env WINEPREFIX="/home/aka/.PlayOnLinux//wineprefix/Office2010" wine start /ProgIDOpen powerpointxmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=AA79_POWERPNT.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=XML Editor
+MimeType=application/x-wine-extension-rels;
+Exec=env WINEPREFIX="/home/aka/.PlayOnLinux//wineprefix/Office2010" wine start /ProgIDOpen xmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=4E82_MSOXMLED.0
