@@ -7,3 +7,5 @@ akk
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList
 cmd
 attrib
+установка и запрет хостов, перенаправление
+C:\Windows\System32\drivers\etc\hosts 
